@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_login">Zaloguj się</string>
+    <string name="login_or_email">Podaj login lub adres Email</string>
+    <string name="password">Podaj hasło</string>
+    <string name="log_in">Zaloguj się</string>
+    <string name="registration">Zarejestruj się</string>
 </resources>
